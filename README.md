@@ -113,7 +113,7 @@ Full experiment with training logs, visualizations, and comparisons:
 
 ## License
 
-MIT
+Apache-2.0 license
 
 ## Citation
 
